@@ -1,5 +1,6 @@
 .gitignore
 data
+data_subset
 .ipynb_checkpoints
 __pycache__
 Practise.ipynb
